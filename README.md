@@ -1,5 +1,7 @@
 # ResepAI - AI-Powered Recipe Generator
 
+![Preview Wesbite](assets/preview.jpeg)
+
 ResepAI is a modern web application that uses AI to generate customized recipes based on user preferences, ingredients, and dietary needs.
 
 ## Features
