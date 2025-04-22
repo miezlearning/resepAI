@@ -20,6 +20,17 @@ ResepAI is a modern web application that uses AI to generate customized recipes 
 - **AI**: Google Gemini API
 - **Database**: MongoDB (simulated in-memory for this demo)
 
+## Preview 
+
+1. History
+
+![Gambar History](assets/hasil.jpeg)
+
+2. Generate...
+
+![Gambar Generate](assets/generate.jpeg)
+
+
 ## Getting Started
 
 1. Clone the repository
